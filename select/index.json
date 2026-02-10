@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "MOVIE",
+  "base_artist": "JUNNY",
+  "createdAt": "2026-02-10T05:33:06.865285Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Gator (from the United Artist Movie \"Gator\")",
+      "artist": "Jerry Reed",
+      "has_synced": false,
+      "path": "select/01_Gator_(from_the_United_Artist_Movie__Gator_)_Jerry_Reed.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Let's Just Be Friends (From The Angry Birds Movie 2)",
+      "artist": "Luke Combs",
+      "has_synced": true,
+      "path": "select/02_Let's_Just_Be_Friends_(From_The_Angry_Birds_Movie_2)_Luke_Combs.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "if this was a movie..",
+      "artist": "Kacey Musgraves",
+      "has_synced": true,
+      "path": "select/03_if_this_was_a_movie.._Kacey_Musgraves.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "He Took Her to a Movie",
+      "artist": "Ladytron",
+      "has_synced": true,
+      "path": "select/04_He_Took_Her_to_a_Movie_Ladytron.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "He Took Her to a Movie (Bertrand Burgalat Mix)",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/05_He_Took_Her_to_a_Movie_(Bertrand_Burgalat_Mix)_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "He Took Her to a Movie - Surreal Madrid Remix",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/06_He_Took_Her_to_a_Movie_-_Surreal_Madrid_Remix_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "He Took Her to a Movie (live in Sofia)",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/07_He_Took_Her_to_a_Movie_(live_in_Sofia)_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "B-movie",
+      "artist": "Lali Puna",
+      "has_synced": true,
+      "path": "select/08_B-movie_Lali_Puna.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Throw My Toys Around (From \"The Rugrats Movie\")",
+      "artist": "No Doubt feat. Elvis Costello",
+      "has_synced": false,
+      "path": "select/09_I_Throw_My_Toys_Around_(From__The_Rugrats_Movie_)_No_Doubt_feat._Elvis_Costello.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Silent Movie",
+      "artist": "Natasha Bedingfield",
+      "has_synced": true,
+      "path": "select/10_Silent_Movie_Natasha_Bedingfield.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Our Life is Not a Movie or Maybe",
+      "artist": "Okkervil River",
+      "has_synced": true,
+      "path": "select/11_Our_Life_is_Not_a_Movie_or_Maybe_Okkervil_River.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "\"B\" Movie Box Car Blues - Live Version",
+      "artist": "The Blues Brothers",
+      "has_synced": false,
+      "path": "select/12_B__Movie_Box_Car_Blues_-_Live_Version_The_Blues_Brothers.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "\"B\" Movie Box Car Blues (Live)",
+      "artist": "The Blues Brothers",
+      "has_synced": false,
+      "path": "select/13_B__Movie_Box_Car_Blues_(Live)_The_Blues_Brothers.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "“B” Movie Box Car Blues",
+      "artist": "Blues Brothers",
+      "has_synced": true,
+      "path": "select/14_“B”_Movie_Box_Car_Blues_Blues_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Bedda to Have Loved / \"Locked Down\" the Movie",
+      "artist": "Ginuwine",
+      "has_synced": true,
+      "path": "select/15_Bedda_to_Have_Loved____Locked_Down__the_Movie_Ginuwine.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Movie",
+      "artist": "MadeinTYO",
+      "has_synced": true,
+      "path": "select/16_Movie_MadeinTYO.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Pale Movie",
+      "artist": "Saint Etienne",
+      "has_synced": true,
+      "path": "select/17_Pale_Movie_Saint_Etienne.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "MOVIE",
+      "artist": "JUNNY",
+      "has_synced": false,
+      "path": "select/pl_01_MOVIE_JUNNY.txt"
+    }
+  ]
+}
